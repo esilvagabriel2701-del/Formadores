@@ -1,11 +1,30 @@
 body{
     background-color: rgb(27, 26, 26);
     color: rgb(230, 223, 223);
+    max-width: 900px;
+    margin: 40px auto;
+    padding: 20px;
+    line-height: 1.6;
 }
-.h1 {
-    text-align: center;
+h2 {
+    background-color: #0078d7;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
 }
-.img{
-    position: absolute;
-    left: 25%;
-}    
+.term {
+    background: white;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 5px;
+}
+
+.term h3 {
+    margin: 0 0 5px 0;
+    color: #0078d7;
+}
+
+.term p {
+    margin: 0;
+    color: black;
+}
