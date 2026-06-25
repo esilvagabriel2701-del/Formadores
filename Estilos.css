@@ -6,6 +6,13 @@ body{
     padding: 20px;
     line-height: 1.6;
 }
+.logo {
+    position: absolute;
+    top: 20px;
+    left: 50px;
+    width: 80px;
+    height: auto;
+}
 h2 {
     background-color: #0078d7;
     color: white;
