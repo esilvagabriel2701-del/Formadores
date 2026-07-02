@@ -4,16 +4,17 @@ body{
     max-width: 900px;
     margin: 40px auto;
     padding: 20px;
+    font-family: 'Courier New';
+}
+.Nome:hover{
+    color: aquamarine;
 }
 .logo {
     position: absolute;
     top: 20px;
     left: 50px;
     width: 80px;
-    max-width: 100%;
     height: auto;
-    object-fit: contain;
-
 }
 h2 {
     background-color: #0078d7;
